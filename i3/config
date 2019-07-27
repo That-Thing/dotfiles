@@ -1,5 +1,5 @@
 #wallpaper
-exec feh --bg-scale /home/simon/Pictures/Wallpapers/forest.jpg
+exec feh --bg-scale /path/to/forest.jpg
 
 
 
