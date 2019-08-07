@@ -35,8 +35,7 @@
             },
             "plugins": {},
             "themes": {
-                "Indigo": false,
-                "        Forest": true
+                "Forest": true,
             }
         },
         "canary": {},
